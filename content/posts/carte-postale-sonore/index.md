@@ -4,6 +4,7 @@ date = "2023-05-04"
 draft = false
 pinned = false
 tags = ["magnifique", "incroyable", "français"]
+image = "http://lisaoycwilsonsite.blogspot.com/2016/02/carte-d-sonore-cadeau.html"
 description = "Voici, notre nouveau projet de français en classe: une carte postale sonore"
 footnotes = "Le lien pour ma carte postale sonore: <https://on.soundcloud.com/8u9nj>"
 +++
