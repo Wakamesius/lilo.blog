@@ -4,7 +4,7 @@ date = "2023-05-04"
 draft = false
 pinned = false
 tags = ["magnifique", "incroyable", "français"]
-image = ""
+image = "https://static.miraheze.org/anterrawiki/thumb/2/21/Speaker_Icon.svg/480px-Speaker_Icon.svg.png"
 description = "Voici, notre nouveau projet de français en classe: une carte postale sonore"
 footnotes = "Le lien pour ma carte postale sonore: <https://on.soundcloud.com/8u9nj>"
 +++
