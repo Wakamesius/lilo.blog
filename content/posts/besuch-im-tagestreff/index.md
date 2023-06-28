@@ -20,6 +20,10 @@ Mirjam begrüsst mich herzlich und zeigt mir den Weg zu den Räumen des Treffs. 
 Betreuerin und verbringt den Tag mit an Demenz erkrankten Menschen. Mit ihr und Doris, ihrer
 Chefin, werde ich den Nachmittag hier verbringen, um mehr über den Umgang mit Menschen, die an
 einer Demenz erkrankt sind, zu erfahren.
+
+![Foto: Lukas Beeli](img_7295_11zon.jpg "Der Tagestreff von aussen")
+
+
 Als ich die Räumlichkeiten des Treffs zum ersten Mal betrete, wirkt der Platz wie eine gewöhnliche
 Wohnung im Grossformat. An einem langen Tisch in der Mitte sitzen zwei ältere Personen, die
 Tischsets putzen. Auf verschiedenen Sesseln und Sofas sitzen Menschen und ruhen sich aus. Trotz der
