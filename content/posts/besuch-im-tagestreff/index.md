@@ -105,6 +105,10 @@ restlichen Gäste dekorieren mit Doris Ostereier. Wieder einmal erstaunen mich d
 reden über den ganzen Tisch miteinander über die verschiedensten Sachen und arbeiten gleichzeitig
 an ihren Hühnchen. Ich muss etwas schmunzeln und denke an meine Schulklasse. Anders als die
 Gäste im Tagestreff können wir schwer gleichzeitig schwatzen und arbeiten.
+
+![Foto: Lukas Beeli](img_7301_11zon.jpg "Das Programm am Nachmittag: Stoffhühnchen basteln")
+
+
 Wie ich später beim Zvieri merke, waren einige der Gäste im Tagestreff früher Schneiderinnen. Sie
 scheinen, noch immer Freude am Nähen zu haben. Von Mirjam lerne ich, dass das
 Nachmittagsprogramm oft so aussieht. «Wir basteln, werken, handarbeiten oder wir spielen auch
@@ -125,6 +129,10 @@ bedauert sie es ein wenig, dass es schon wieder vorbei ist, und sie ist schon wi
 Ideen für das nächste Mal. Es sei einfach etwas Schönes, meint Mirjam, einen Tag voller Aktivitäten
 mit den Menschen zu meistern und zu geniessen und die Leute dann am Abend nach einer tollen Zeit
 wieder gehen zu lassen.
+
+![Foto: Lukas Beeli](img_7318_11zon.jpg "(von links nach rechts) Mirjam und Doris vor dem Tagestreff")
+
+
 Zum Arbeitsalltag im Tagestreff gehört es für Mirjam dazu, dass sie sich vorbereitet. Zuhause übt sie
 Lieder auf der Ukulele, um sie im Treff zu singen. Oder sie sammelt Ideen und Material für ein neues
 Werkprojekt. «Ich denke, je besser ich vorbereitet bin, desto besser sind für mich auch die Tage.»
@@ -153,6 +161,8 @@ und weiteren Gesprächen über die Thuner Seespiele, den Schneiderberuf und die 
 Tagestreff singen wir noch ein wenig. Mirjam begleitet uns auf der Ukulele. Das Musizieren verbreitet
 eine Riesenfreude. Als um fünf Uhr die Liebsten der Gäste kommen, um sie abzuholen, hatten wir alle
 einen wunderbaren Nachmittag.
+
+![Foto: Lukas Beeli](img_7293_11zon.jpg "Das Schild zum Tagestreff")
 
 {{</\*box title="Interview mit Mirjam aus dem Tagestreff"\*/>}}
 
