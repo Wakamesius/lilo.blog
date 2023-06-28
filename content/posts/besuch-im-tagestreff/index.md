@@ -4,6 +4,7 @@ date = "2023-06-28"
 draft = true
 pinned = false
 tags = ["Reportage", "Deutschprojekt"]
+image = "img_7301_11zon.jpg"
 description = "Ein langweiliger Nachmittag oder eine unglaublich wertvolle Erfahrung? Was ich\nwährend eines Nachmittags mit an Demenz erkrankten Menschen alles erlebe."
 footnotes = "Autoren: Nendra, Riccardo, Lukas"
 +++
@@ -45,6 +46,13 @@ Weitem aus. Auch wie viel sie über alle möglichen Dialekte wissen, ist umwerfe
 schlechtes Gewissen. Mein Vorurteil von einem langweiligen Nachmittag mit vergesslichen Menschen
 hätte nicht falscher sein können.
 
+
+
+> «Wir sind die, die immer vorausschauen müssen.»
+> Mirjam vom Tagestreff Thun
+
+
+
 {{</\*box title="Ist Demenz heilbar?"\*/>}}
 
 Wissenschaftler*innen haben viele Arten von Medikamenten zur Behandlung von Demenz erforscht.
@@ -81,6 +89,11 @@ diejenigen, die immer vorausschauen müssen», betont Mirjam. Die beste Lösung 
 mögliches Problem schon im Vorhinein zu erkennen und sich darum zu kümmern. Wenn mal etwas
 Ungeplantes passiere, solle man dies mit Humor nehmen. Das sei bei kleinen Pannen das Beste, sagt
 Mirjam.
+
+> «Am Abend komme ich immer sehr erfüllt nach Hause.»
+> Mirjam vom Tagestreff Thun
+
+
 Um zwei Uhr ist es so weit: Es geht weiter mit dem Programm. Auf dem Tisch liegen Scheren, Schnur,
 Stoff und Watte. Passend zur Osterzeit machen wir kleine Hühnchen aus Stoff. Mirjam näht mit einer
 Gruppe die Hühnchen zusammen, ich mache mit einem Herrn die Kordeln für die Beine und die
@@ -136,3 +149,24 @@ und weiteren Gesprächen über die Thuner Seespiele, den Schneiderberuf und die 
 Tagestreff singen wir noch ein wenig. Mirjam begleitet uns auf der Ukulele. Das Musizieren verbreitet
 eine Riesenfreude. Als um fünf Uhr die Liebsten der Gäste kommen, um sie abzuholen, hatten wir alle
 einen wunderbaren Nachmittag.
+
+{{</\*box title="Interview mit Mirjam aus dem Tagestreff"\*/>}}
+
+Kommt dir auf die Schnelle gerade ein spezieller Zwischenfall in den Sinn? Etwas, das ganz unerwartet
+passiert ist und euch geblieben ist?
+Letzte Woche zum Beispiel. Eine Frau und ein Mann sassen sich gegenüber an einem Tisch und
+schmolzen auf einer Herdplatte Schokolade. Der Mann hatte in der Pfanne gerührt und die Frau hatte
+zugeschaut. Plötzlich hielt die Frau einfach so den Finger in die Pfanne, streckte ihn dem Mann hin
+und sagte: «Komm, versuch, ist es gut?» Der Mann nahm den Finger dann in den Mund. Das war sehr,
+sehr lustig. Oft passiert das so blitzschnell. Auch beim Zuschneiden des Stoffes kann es vorkommen,
+dass ich den Stoff schon geschnitten habe und dann erwischt jemand die Schere und verschneidet den
+Stoff dann nochmal. Etwas anderes, das auch oft unerwartet passiert, kommt viel vor, wenn wir einen
+Krug zu nah bei einer Person hinstellen. Dann will die Person sich selber einschenken und tut das
+einfach, bis alles überläuft. Solche Sachen sind dann sehr unvorhergesehen, weil wir denken, wir
+haben das doch genug weit weg von ihr hingestellt.
+Falls ihr jetzt eine Situation mal nicht rechtzeitig erkennt und es schon zu spät ist, was macht ihr?
+Ich denke immer: die Ruhe bewahren. Am besten mit Humor. Zum Beispiel kann man sagen: «Ou, jetzt
+ist gerade etwas schiefgegangen». Je nach Situation ist es auch gerade sehr gut, die Person
+anzusprechen. Ich glaube, wir versuchen, das wirklich mit viel Humor zu nehmen.
+
+*{{</*/box*/>}}
