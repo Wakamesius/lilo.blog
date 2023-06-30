@@ -1,7 +1,7 @@
 +++
 title = "Besuch im Tagestreff"
 date = "2023-06-28"
-draft = true
+draft = false
 pinned = false
 tags = ["Reportage", "Deutschprojekt"]
 image = "img_7301_11zon.jpg"
