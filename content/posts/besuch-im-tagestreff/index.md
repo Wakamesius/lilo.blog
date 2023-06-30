@@ -2,7 +2,7 @@
 title = "Besuch im Tagestreff"
 date = "2023-06-28"
 draft = false
-pinned = false
+pinned = true
 tags = ["Reportage", "Deutschprojekt"]
 image = "img_7301_11zon.jpg"
 description = "Ein langweiliger Nachmittag oder eine unglaublich wertvolle Erfahrung? Was ich\nwährend eines Nachmittags mit an Demenz erkrankten Menschen alles erlebe."
