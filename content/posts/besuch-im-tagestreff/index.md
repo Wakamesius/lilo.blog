@@ -156,7 +156,7 @@ einen wunderbaren Nachmittag.
 
 ![Foto: Lukas Beeli](img_7293_11zon.jpg "Das Schild zum Tagestreff")
 
-{{</\*box title="Interview mit Mirjam aus dem Tagestreff"\*/>}}
+{{<box title="Interview mit Mirjam aus dem Tagestreff">}}
 
 Kommt dir auf die Schnelle gerade ein spezieller Zwischenfall in den Sinn? Etwas, das ganz unerwartet
 passiert ist und euch geblieben ist?
@@ -175,4 +175,4 @@ Ich denke immer: die Ruhe bewahren. Am besten mit Humor. Zum Beispiel kann man s
 ist gerade etwas schiefgegangen». Je nach Situation ist es auch gerade sehr gut, die Person
 anzusprechen. Ich glaube, wir versuchen, das wirklich mit viel Humor zu nehmen.
 
-*{{</*/box*/>}}
+{{</box>}}
