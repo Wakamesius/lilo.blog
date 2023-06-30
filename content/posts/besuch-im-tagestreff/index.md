@@ -23,7 +23,6 @@ einer Demenz erkrankt sind, zu erfahren.
 
 ![Foto: Lukas Beeli](img_7295_11zon.jpg "Der Tagestreff von aussen")
 
-
 Als ich die Räumlichkeiten des Treffs zum ersten Mal betrete, wirkt der Platz wie eine gewöhnliche
 Wohnung im Grossformat. An einem langen Tisch in der Mitte sitzen zwei ältere Personen, die
 Tischsets putzen. Auf verschiedenen Sesseln und Sofas sitzen Menschen und ruhen sich aus. Trotz der
@@ -50,14 +49,10 @@ Weitem aus. Auch wie viel sie über alle möglichen Dialekte wissen, ist umwerfe
 schlechtes Gewissen. Mein Vorurteil von einem langweiligen Nachmittag mit vergesslichen Menschen
 hätte nicht falscher sein können.
 
-
-
 > «Wir sind die, die immer vorausschauen müssen.»
 > Mirjam vom Tagestreff Thun
 
-
-
-{{</\*box title="Ist Demenz heilbar?"\*/>}}
+{{<box title="Ist Demenz heilbar?">}}
 
 Wissenschaftler*innen haben viele Arten von Medikamenten zur Behandlung von Demenz erforscht.
 Manche reduzieren den Schaden von Demenz, jedoch ist leider keines davon auch nur annähernd
@@ -81,7 +76,7 @@ Auf diese Medikamente alleine ist jedoch bei Weitem kein Verlass. Auch wenn sie 
 einen Effekt zeigen, bleibt die Unterstützung, die sie bieten sollen, unsicher. Dies liegt an den
 möglichen Nebenwirkungen und dem oft ungewissen Wirkungsgrad. Aus diesem Grund ist eine gute
 soziale, pflegerische Betreuung ein wesentlicher Bestandteil des Lebens mit Demenz.
-{{</*/box*/>}}
+{{</box>}}
 
 ## Programm für die Gäste
 
@@ -97,7 +92,6 @@ Mirjam.
 > «Am Abend komme ich immer sehr erfüllt nach Hause.»
 > Mirjam vom Tagestreff Thun
 
-
 Um zwei Uhr ist es so weit: Es geht weiter mit dem Programm. Auf dem Tisch liegen Scheren, Schnur,
 Stoff und Watte. Passend zur Osterzeit machen wir kleine Hühnchen aus Stoff. Mirjam näht mit einer
 Gruppe die Hühnchen zusammen, ich mache mit einem Herrn die Kordeln für die Beine und die
@@ -107,7 +101,6 @@ an ihren Hühnchen. Ich muss etwas schmunzeln und denke an meine Schulklasse. An
 Gäste im Tagestreff können wir schwer gleichzeitig schwatzen und arbeiten.
 
 ![Foto: Lukas Beeli](img_7301_11zon.jpg "Das Programm am Nachmittag: Stoffhühnchen basteln")
-
 
 Wie ich später beim Zvieri merke, waren einige der Gäste im Tagestreff früher Schneiderinnen. Sie
 scheinen, noch immer Freude am Nähen zu haben. Von Mirjam lerne ich, dass das
@@ -131,7 +124,6 @@ mit den Menschen zu meistern und zu geniessen und die Leute dann am Abend nach e
 wieder gehen zu lassen.
 
 ![Foto: Lukas Beeli](img_7318_11zon.jpg "(von links nach rechts) Mirjam und Doris vor dem Tagestreff")
-
 
 Zum Arbeitsalltag im Tagestreff gehört es für Mirjam dazu, dass sie sich vorbereitet. Zuhause übt sie
 Lieder auf der Ukulele, um sie im Treff zu singen. Oder sie sammelt Ideen und Material für ein neues
