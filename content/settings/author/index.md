@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Lukas Beeli"
-image = "/media/chunky-ameisenbar.jpg"
+image = "/media/aaaameisibaaar.jpg"
 url = "/about/"
 +++
