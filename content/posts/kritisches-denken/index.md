@@ -4,6 +4,7 @@ date = "2023-12-17"
 draft = false
 pinned = false
 tags = ["Deutschunterricht", "KritischesDenken"]
+image = "flatearth_11zon.jpeg"
 description = "Das Kritische Denken ist eine immer stärker gefragte Kompetenz in unserer Gesellschaft. Eine grundsätzlich hinterfragende Einstellung erleichtert das Erkennen und Enttarnen von Fakenews und irreführenden, manipulativen Informationen. Doch wie überall: Auch hier gibt es zu viel des Guten."
 +++
 # **Kritisches Denken**
