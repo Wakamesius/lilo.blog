@@ -4,6 +4,7 @@ date = "2024-03-01"
 draft = true
 pinned = false
 tags = ["deutsch", "mündlichprüfung", "woyzeck", "literatur"]
+description = "Seit der Zeit von Aristoteles hat sich das Theater und auch die Literatur grundsätzlich verändert. Mit den Jahren entwickelte sich Aristoteles' Modell der Fallhöhe weiter und heute finden wir in den verschiedensten Werken die unterschiedlichsten Figuren als Hauptcharaktere."
 +++
 ### Aristoteles? Nicht mehr nötig
 
