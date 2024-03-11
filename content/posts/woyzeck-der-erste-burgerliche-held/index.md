@@ -22,3 +22,9 @@ Wie so einige Ideen aus der Zeit der griechischen Antike, war auch die Theorie d
 Büchner blieb bei Weitem nicht der einzige Schriftsteller, der von einem Mensch schrieb, welcher unter sozialstrukturell bedingten Problemen leidet. Genauso wie vor knapp 200 Jahren steckt auch heute noch strukturelle Ungerechtigkeit in unserer Gesellschaft und genauso wie damals Büchner, gibt es auch heute Schriftsteller\*innen, die solche Probleme ansprechen und unter anderem im Rahmen der Literatur zum Thema machen. Ein Beispiel für einen solchen Autor wäre Laurent Gaudé. Das von ihm geschriebene Buch «Eldorado» erzählt die Geschichte eines jungen Mannes, der durch den afrikanischen Kontinent bis nach Spanien reist. Durch die «Ich-Perspektive» im Buch und die gelungene Darstellung der Erlebnisse des Protagonisten bewegt die Geschichte einen als Leser\*in besonders. Die Leserschaft wird in die Problematik hinter der Migration von Afrika nach Europa auf eine sehr persönliche und emotionale Art eingeführt, die einen entsprechend trifft.
 
 Die Fallhöhe ist nach Aristoteles ein vitaler Bestandteil von Theater, welches das Publikum berührt und absorbiert. Moderne Beispiele zeigen jedoch, dass eine maximale Fallhöhe keineswegs eine Prämisse für bewegende Werke ist. Ein Mitfühlen mit dem Leiden und den Schwierigkeiten einer Figur bedarf nicht zwingend einen adligen Helden, der alles verliert. Es können genauso Menschen aus schwierigen Verhältnissen die Hauptrolle in einer Geschichte einnehmen. Es bedarf lediglich einer gelungenen Beschreibung der Situation und der Gedanken einer Figur, um dem Publikum die Möglichkeit zur Identifikation zu bieten. Seit Büchner haben viele weitere Schriftsteller*innen gezeigt, dass auch Menschen, die in sozial bedingten schwierigen Situationen leben, ausserordentliche Hauptfiguren für eine Geschichte sein können. Die wenigsten können sich heutzutage in einen adligen Herrschersohn hineinversetzen.
+
+
+
+
+
+RUFUS! Wie Kastentext?!?!?!?
