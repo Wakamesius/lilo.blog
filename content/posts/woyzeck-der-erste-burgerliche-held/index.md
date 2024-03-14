@@ -6,9 +6,9 @@ pinned = false
 tags = ["deutsch", "mündlichprüfung", "woyzeck", "literatur"]
 description = "Seit der Zeit von Aristoteles hat sich das Theater und auch die Literatur grundsätzlich verändert. Mit den Jahren entwickelte sich Aristoteles' Modell der Fallhöhe weiter und heute finden wir in den verschiedensten Werken die unterschiedlichsten Figuren als Hauptcharaktere."
 +++
-### Aristoteles? Nicht mehr nötig
+# **Aristoteles? Nicht mehr nötig**
 
-In den letzten paar Wochen merkte ich, dass unsere Deutschlektüre einen markanten Unterschied gegenüber ihren Vorgängern hat. So stellte sich nämlich im Rahmen unserer Besprechungen und Diskussionen im Unterricht heraus, dass Georg Büchner in seinem Woyzeck als erster mit einem Jahrhunderte alten Prinzip bricht: der Fallhöhe des Aristoteles.
+###### In den letzten paar Wochen merkte ich, dass unsere Deutschlektüre einen markanten Unterschied gegenüber ihren Vorgängern hat. So stellte sich nämlich im Rahmen unserer Besprechungen und Diskussionen im Unterricht heraus, dass Georg Büchner in seinem Woyzeck als erster mit einem Jahrhunderte alten Prinzip bricht: der Fallhöhe des Aristoteles.
 
 **Die Idee der Fallhöhe**
 Viele Aspekte von dramatischen Werken haben ihren Ursprung bei Aristoteles. Von dem Griechen stammen Grundlegende Ideen und Konzepte des Theaters, wie zum Beispiel die Katharsis oder eben auch die damit verbundene Fallhöhe. Nach Aristoteles basiert gutes Theater, also Theater, welches das Publikum bewegt, zu einem grossen Teil auf dem Protagonisten. Das Publikum muss sich mit dem Hauptcharakter identifizieren können. Nur so geht die Geschichte, alles was er durchlebt wirklich unter die Haut. Voraussetzung für ein Drama, das nach Aristoteles auch wirklich tragisch ist, ist ein möglichst tiefer Fall des Helden: Er oder sie muss von ganz oben nach ganz unten, muss alles verlieren. Damit dieses Leid und dieser Verlust maximiert werden, muss der Held zuerst ganz oben stehen. Nur so ist ein maximal tiefer Fall garantiert. An dieser Idee hielten Schriftsteller über Jahrhunderte fest, Beispiel dafür wäre z.B. Schillers Ferdinand aus «Kabale und Liebe».
