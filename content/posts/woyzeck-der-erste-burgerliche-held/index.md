@@ -1,7 +1,7 @@
 +++
 title = "Woyzeck - der erste bürgerliche Held"
 date = "2024-03-01"
-draft = true
+draft = false
 pinned = false
 tags = ["deutsch", "mündlichprüfung", "woyzeck", "literatur"]
 description = "Seit der Zeit von Aristoteles hat sich das Theater und auch die Literatur grundsätzlich verändert. Mit den Jahren entwickelte sich Aristoteles' Modell der Fallhöhe weiter und heute finden wir in den verschiedensten Werken die unterschiedlichsten Figuren als Hauptcharaktere."
@@ -23,11 +23,9 @@ Büchner blieb bei Weitem nicht der einzige Schriftsteller, der von einem Mensch
 
 Die Fallhöhe ist nach Aristoteles ein vitaler Bestandteil von Theater, welches das Publikum berührt und absorbiert. Moderne Beispiele zeigen jedoch, dass eine maximale Fallhöhe keineswegs eine Prämisse für bewegende Werke ist. Ein Mitfühlen mit dem Leiden und den Schwierigkeiten einer Figur bedarf nicht zwingend einen adligen Helden, der alles verliert. Es können genauso Menschen aus schwierigen Verhältnissen die Hauptrolle in einer Geschichte einnehmen. Es bedarf lediglich einer gelungenen Beschreibung der Situation und der Gedanken einer Figur, um dem Publikum die Möglichkeit zur Identifikation zu bieten. Seit Büchner haben viele weitere Schriftsteller*innen gezeigt, dass auch Menschen, die in sozial bedingten schwierigen Situationen leben, ausserordentliche Hauptfiguren für eine Geschichte sein können. Die wenigsten können sich heutzutage in einen adligen Herrschersohn hineinversetzen.
 
-RUFUS! Wie Kastentext?!?!?!?
-
-Text vom Kastentext
-
-**Reflexion meines Schreibprozesses**
+{{<box title="REFLEXION MEINES SCHREIBPROZESSES">}}
 
 Die Idee für meinen Text hatte ich mit einer speziellen Brainstorming Methode aus dem Unterricht gefunden. Leider hatte ich am Anfang sehr schnell mit dem Schreiben begonnen und nicht viel Zeit für die Konzeptualisierung investiert. So musste ich am nach dem ersten Teil des Textes merken, dass ich keine klare Idee habe, wie die Produktion weitergehen soll. Nachdem ich die Unterrichtsinhalte repetiert hatte, suchte ich eine Idee, um das ganze Wissen weiterzuverarbeiten. Zu diesem Teil der Textproduktion hatte ich mir anfangs zu wenig Gedanken gemacht. Mit dem Werk «Eldorado» fand ich schliesslich einen Inhalt für den 2. Teil der Aufgabe. Für einen nächsten Blogeintrag wäre es sinnvoll, mehr Zeit in das Entwickeln der Idee zu stecken. So kenne ich das Ziel, das Endprodukt und kann den ganzen Text schon am Anfang daran anpassen.
 Ich habe keine fremde Hilfe für den Text verwendet und mit dem Resultat bin ich mässig zufrieden.
+
+{{</box>}}
