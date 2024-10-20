@@ -1,7 +1,7 @@
 +++
 title = "Nathans Nachfolgende im 21. Jahrhundert"
 date = "2024-10-20"
-draft = true
+draft = false
 pinned = false
 tags = ["deutsch", "blogeintrag", "nathanderweise", "lessing"]
 image = "bild-blog-nathan-1.png"
