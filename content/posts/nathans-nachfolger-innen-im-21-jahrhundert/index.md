@@ -1,10 +1,10 @@
 +++
-title = "Nathans Nachfolger*innen im 21. Jahrhundert"
+title = "Nathans Nachfolgende im 21. Jahrhundert"
 date = "2024-10-20"
 draft = true
 pinned = false
 tags = ["deutsch", "blogeintrag", "nathanderweise", "lessing"]
-image = ""
+image = "bild-blog-nathan-1.png"
 description = "Wo ist das Stück «Nathan der Weise» im 21. Jahrhundert noch aktuell? Ein Vergleich der Inhalte von Lessings Werk und den Vorstellungen der Heilsarmee."
 +++
 Als erste Lektüre dieses Jahres haben wir im Unterricht ein klassisches Werk der deutschen Literaturgeschichte behandelt. Unsere Klasse hat «Nathan der Weise» von Gotthold Ephraim Lessing gelesen und in den Lektionen den Inhalt des Textes wie auch den literaturgeschichtlichen Hintergrund der Aufklärung besprochen. In ein Thema, welches zu Zeiten der Aufklärung oft Diskussionsgegenstand war, soll nun in diesem Blog eingeführt werden. Es handelt sich um das Thema der Religion, das in Lessings Stück «Nathan der Weise» eine zentrale Rolle spielt. Genauer gesagt soll es im Folgenden darum gehen, wie Religion und Glauben nach den Ideen von Nathan – einer Figur aus Lessings Stück – gelebt werden sollen. Zuerst nehme ich im Blog Bezug auf eine im Unterricht besprochene Szene aus «Nathan der Weise», danach wird im nächsten Schritt ein Beispiel für Nathans Ideen in der heutigen Gesellschaft thematisiert und die Gleichheit wird beurteilt.
